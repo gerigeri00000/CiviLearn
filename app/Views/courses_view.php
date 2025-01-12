@@ -96,7 +96,7 @@
                     <div class="offcanvas-menu-footer d-lg-none">
                         <div>
                             +6281357181360<br>
-                            <a href="#">civilearn@gmail.com</a>
+                            <a href="#">learnfirst@gmail.com</a>
                             <nav class="social__links-type2 d-flex justify-content-start mt-2">
                                 <a href="#"><i class="bi bi-twitter twitter-color"></i></a>
                                 <a href="#"><i class="bi bi-facebook facebook-color"></i></a>
@@ -469,7 +469,7 @@
                 <!-- Col 2: Address and Phone -->
                 <div class="col text-center">
                     <address>
-                        CiviLearn<br>
+                        Learn First<br>
                         Ini Alamat<br>
                         <strong>Phone No.</strong> +6281357181360
                     </address>

@@ -133,7 +133,7 @@
             <div class="offcanvas-menu-footer d-lg-none">
               <div>
                 +6281357181360<br>
-                <a href="#">civilearn@gmail.com</a>
+                <a href="#">learnfirst@gmail.com</a>
                 <nav class="social__links-type2 d-flex justify-content-start mt-2">
                   <a href="#"><i class="bi bi-twitter twitter-color"></i></a>
                   <a href="#"><i class="bi bi-facebook facebook-color"></i></a>
@@ -173,19 +173,19 @@
           <div class="col-md-7">
             <div class=" carousel-caption text-start center-align position-relative">
               <h1 class="animate__animated animate__zoomInUp">
-                Apa itu CiviLearn
+                Apa itu Learn First
                 <br class="d-none d-lg-block">
                 <!-- <Span>Your Brighter Future </Span> -->
 
               </h1>
               <p class="animate__animated animate__zoomInUp">
-                Civilearn adalah platform e-course yang dirancang untuk mendukung kebutuhan belajar akademis Anda.
+                Learn First adalah platform e-course yang dirancang untuk mendukung kebutuhan belajar akademis Anda.
                 <br class="d-none d-lg-block">
-                Dengan materi berkualitas tinggi yang disusun oleh para ahli, Civilearn membantu siswa, mahasiswa,
+                Dengan materi berkualitas tinggi yang disusun oleh para ahli, Learn First membantu siswa, mahasiswa,
                 <br class="d-none d-lg-block">
                 dan profesional menguasai berbagai topik akademis secara fleksibel dan interaktif.
                 <br class="d-none d-lg-block">
-                Tingkatkan keterampilan dan pemahaman Anda kapan saja, di mana saja bersama Civilearn!"
+                Tingkatkan keterampilan dan pemahaman Anda kapan saja, di mana saja bersama Learn First!"
               </p>
               <div class="animate__animated animate__fadeInDown ">
                 <a class="btn btn-primary btn-size shadow-1" href="#">Jelajahi Kursus</a>
@@ -255,7 +255,7 @@
             <div class="about-content">
               <h4 class="subheading-style-01">Tentang Kami</h4>
               <h2>Tingkatkan Skill, Wujudkan Karir Impian</h2>
-              <p>Civilearn hadir untuk membantu Anda mengembangkan keterampilan dan memperluas peluang karir melalui e-course berkualitas. Bersama kami, wujudkan masa depan cerah dan sukses yang Anda impikan.</p>
+              <p>Learn First hadir untuk membantu Anda mengembangkan keterampilan dan memperluas peluang karir melalui e-course berkualitas. Bersama kami, wujudkan masa depan cerah dan sukses yang Anda impikan.</p>
               <div class="row mt-0">
                 <div class="col-6 d-flex gap-4 about-usp">
                   <div class="icon icon-bg icon-circle icon_size-sm">
@@ -425,7 +425,7 @@
         <!-- Col 2: Address and Phone -->
         <div class="col text-center">
           <address>
-            CiviLearn<br>
+            Learn First<br>
             Ini Alamat<br>
             <strong>Phone No.</strong> +6281357181360
           </address>

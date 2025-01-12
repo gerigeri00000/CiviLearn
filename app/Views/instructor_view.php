@@ -179,7 +179,7 @@
                 <!-- Col 2: Address and Phone -->
                 <div class="col text-center">
                     <address>
-                        CiviLearn<br>
+                        Learn First<br>
                         Ini Alamat<br>
                         <strong>Phone No.</strong> +6281357181360
                     </address>
